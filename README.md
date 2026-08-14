@@ -1,4 +1,4 @@
 # ayush
 Hello this is my first repository.
 <br>
-Author - Niranjan Ahire
+Author - Niranjan Gokul Ahire
